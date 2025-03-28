@@ -4,7 +4,7 @@
     "start_url": "/",
     "display": "standalone", // faz o app abrir como aplicativo independente
     "background_color": "#fff", // cor de fundo no carregamento do app
-    "theme_color":"#000000", // cor da barra de status
-    
+    "theme_color":"#000000" // cor da barra de status
+
 
 }
